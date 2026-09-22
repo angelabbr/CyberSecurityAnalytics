@@ -27,7 +27,6 @@ SELECT
 	COUNT(VulnerabilityID) AS TotalVulnerabilitiesDetected
 FROM Vulnerabilities;
 
-
 /* 2 - AGGREGATION */
 
 -- Query 5: How many employees work in each department?
