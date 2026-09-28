@@ -73,3 +73,14 @@ Analysis of the dataset highlighted several differences across the organization:
 - Monthly incident analysis was used to compare changes in reported security incidents over time.
 
 These findings describe patterns within the synthetic dataset and should not be interpreted as evidence about real organizations or the inherent security of particular technologies.
+
+
+## Power BI Dashboard
+
+I developed an interactive Power BI dashboard to visualize the key findings from the cybersecurity analysis. It provides:
+- Key security KPIs: total incidents, critical incidents, open incidents, pending vulnerabilities, and overall patch rate
+- Monthly incident trends
+- Incident volume by department
+- Vulnerabilities by risk level
+- Department-level patch rates compared with the company-wide patch rate
+- Interactive filtering by department, device type, and operating system
