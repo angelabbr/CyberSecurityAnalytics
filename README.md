@@ -84,3 +84,5 @@ I developed an interactive Power BI dashboard to visualize the key findings from
 - Vulnerabilities by risk level
 - Department-level patch rates compared with the company-wide patch rate
 - Interactive filtering by department, device type, and operating system
+
+![CyberSecurityAnalytics Power BI Dashboard](CyberSecurityAnalytics_Dashboard.png)
